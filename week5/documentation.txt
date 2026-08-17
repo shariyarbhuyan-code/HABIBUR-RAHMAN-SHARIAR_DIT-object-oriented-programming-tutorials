@@ -1,0 +1,3 @@
+Week 5 Encapsulation & Documentation Tutorial
+Author: Habibur Rahman Shariar
+Description: Demonstrated data hiding using private fields and getter/setter methods.
